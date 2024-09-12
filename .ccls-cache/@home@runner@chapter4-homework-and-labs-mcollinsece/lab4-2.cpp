@@ -4,6 +4,11 @@
 using namespace std;
 int main()
 {
+
+
+  cout << "Hello Kaelee" << endl;
+
+  
   //declare named constant and variables
   const double COMM_RATE = 0.1;
   double sales           = 0.0;
